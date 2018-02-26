@@ -1,4 +1,10 @@
 # Created by .ignore support plugin (hsz.mobi)
+#temporary files
+*~
+
+#Webstorm files
+.idea/
+
 ### Node template
 # Logs
 logs
