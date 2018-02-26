@@ -1,0 +1,11 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome to #{title}
+  p Current rates:
+
+  p USD: &dollar;#{result.bpi.USD.rate}
+  p EUR: &euro;#{result.bpi.EUR.rate}
+  p GBP: &pound;#{result.bpi.GBP.rate}
+

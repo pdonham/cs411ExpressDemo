@@ -1,0 +1,26 @@
+
+
+
+
+
+pass in two strings
+grab the rightmost digit of each
+use if elif for...
+0 + 0
+0 + 1
+1 + 0
+1 + 1
+
+return addition plus the carry
+
+addrecurse ('1001', '0011', '0')
+
+const addRecurse = function (v1, v2, carry)  {
+
+if v1 blank return v2
+if v2 blank return v1
+
+
+
+
+}
